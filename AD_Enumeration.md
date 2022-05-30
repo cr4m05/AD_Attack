@@ -1,6 +1,3 @@
-### Mind Map
-![pentest_ad.png](02%20Pentest%20Tips/AD_Attack/Attachments/pentest_ad.png)
-
 ### PowerView or AD module required
 
 ### Check Current Domain
